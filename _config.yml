@@ -1,0 +1,13 @@
+title: Panq Rubinot # Título do seu site
+email: panqopenrubinot@gmail.com
+description: >- # descrição para mecanismos de busca
+  Panq Rubinot - TOTALMENTE CONTRA O GUILD BANK.
+baseurl: "" # se for o domínio do usuário (seu-nome-de-usuario.github.io), deixe ""
+# se for um repositório (seu-nome-de-usuario.github.io/nome-do-repositorio), coloque "/nome-do-repositorio"
+url: "https://panq-rubinot.github.io" # Coloque a URL completa do seu site
+github_username: Panq-Rubinot # Seu username do GitHub
+
+# Tema padrão do GitHub Pages (opcional, mas recomendado para começar)
+remote_theme: pages-themes/minimal@v0.2.0 # Ou outro tema Jekyll de sua escolha
+plugins:
+  - jekyll-remote-theme # Permite usar temas remotos do GitHub Pages
